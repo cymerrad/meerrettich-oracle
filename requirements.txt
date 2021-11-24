@@ -1,0 +1,6 @@
+flask[async]
+flask-limiter
+requests
+pymongo
+black
+numpy
